@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>I am a final-year B.Sc. Computational Biology and Bioinformatics student dedicated to bridging the gap between life sciences and computer science. I leverage my passion for programming and data science to build tools, analyze complex datasets, and decode biological systems.</p>
+<p>I am a final-year B.Sc. Computational Biology and Bioinformatics student passionate about exploring the world of biology through computer science.</p>
 <br>
 
 ---
